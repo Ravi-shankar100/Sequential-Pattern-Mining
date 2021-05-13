@@ -6,8 +6,8 @@ This project is done by using Mathematical and Machine Learning Concepts such as
 <h3>1.Sequential Pattern Mining.
 <h3>2.Sequential Rule Mining.
 <h3>3.Association Rule Mining.
-  
-For complete explanation of this project I have created one presentaion file and which is uploaded in this repository
+<br><br>  
+For complete explanation of this project I have created one presentaion file and which is uploaded in this repository.<br>
 This will give a complete workflow and the tools and technologies used for completion of this project
 
 <h2>Conclusion</h2>
